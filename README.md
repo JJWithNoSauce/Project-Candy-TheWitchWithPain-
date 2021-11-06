@@ -17,7 +17,7 @@ This includes
 - Texts used in the game : Pixelbroidery / designed by Tusoud
 
 This is the project file. So you can just import them straight to Godot Engine and start modding it from there.
-Such as stage building or replacing sprites or music.
+Such as stage building or replacing sprites or music or just change the mechanic completely.
 
 - PLEASE! don't reupload this
 
