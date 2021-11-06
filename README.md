@@ -9,8 +9,9 @@ This game is powered by Godot Engine.
 
 The files contains in zip is the project file for any "modification" of your own.
 This includes
-- Codes
-- Sprites
+- Codes made by me
+- Sprites and arts made by me
+
 - Music from HeatleyBros
 - Sfx from Kenney.nl
 - Texts used in the game : Pixelbroidery / designed by Tusoud
@@ -18,12 +19,15 @@ This includes
 This is the project file. So you can just import them straight to Godot Engine and start modding it from there.
 Such as stage building or replacing sprites or music.
 
-PLEASE! don't reupload this
-PLEASE! don't claim this game as your own.
-PLEASE! don't claim these assets as your own.
+- PLEASE! don't reupload this
+
+- PLEASE! don't claim this game as your own.
+
+- PLEASE! don't claim any of these assets as your own. (Unless you provide them yourself)
 
 If you were to mod the game or to use any of the sprites or codes.
-Please!! Make sure you credit me!!
+
+Please make sure you credit me!! AND MAKE IT OPEN SOURCE.
 
 Thanks and have fun!
 -JJWithNoSauce
