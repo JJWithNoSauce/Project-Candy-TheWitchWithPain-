@@ -1,9 +1,17 @@
 # Project-Candy-TheWitchWithPain-
-This is the source code and assets in The Witch With Pain game.
+This is the source code in The Witch With Pain game.
 
 The witch with pain is JJWithNoSauce's first game and was made within 5 days.
 it was further developed for 3 days after it was submitted on GDB's Spooktober 2021 jam.
-https://itch.io/game/edit/1258687
+https://jjwithnosauce.itch.io/the-witch-with-pain
+
+The rating for the jam were
+Criteria	Rank	Score*	Raw Score
+Gameplay	#32	  3.714	  3.714
+Theme	    #50	  3.714	  3.714
+Overall	  #55	  3.643	  3.643
+Audio	    #93	  3.143 	3.143
+Graphics	#154	2.929	  2.929
 
 This game is powered by Godot Engine.
 
@@ -12,12 +20,8 @@ This includes
 - Codes made by me
 - Sprites and arts made by me
 
-- Music from HeatleyBros
-- Sfx from Kenney.nl
-- Texts used in the game : Pixelbroidery / designed by Tusoud
-
-This is the project file. So you can just import them straight to Godot Engine and start modding it from there.
-Such as stage building or replacing sprites or music or just change the mechanic completely.
+The project file is available in the itch.io page
+You can import the stage file and start modding such as stage building or replacing sprites or music or just change the mechanic completely.
 
 - PLEASE! don't reupload this
 
