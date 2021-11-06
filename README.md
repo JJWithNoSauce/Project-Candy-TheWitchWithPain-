@@ -21,7 +21,8 @@ This includes
 - Sprites and arts made by me
 
 The project file is available in the itch.io page
-You can import the stage file and start modding such as stage building or replacing sprites or music or just change the mechanic completely.
+You can import the project file to Godot engine 
+and start modding such as stage building or replacing sprites or music or just change the mechanic completely.
 
 - PLEASE! don't reupload this
 
