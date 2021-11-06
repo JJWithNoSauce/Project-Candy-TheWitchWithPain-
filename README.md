@@ -6,12 +6,12 @@ it was further developed for 3 days after it was submitted on GDB's Spooktober 2
 https://jjwithnosauce.itch.io/the-witch-with-pain
 
 The rating for the jam were
-Criteria	Rank	Score*	Raw Score
-Gameplay	#32	  3.714	  3.714
-Theme	    #50	  3.714	  3.714
-Overall	  #55	  3.643	  3.643
-Audio	    #93	  3.143 	3.143
-Graphics	#154	2.929	  2.929
+- Criteria	Rank	Score*	Raw Score
+- Gameplay	#32	  3.714	  3.714
+- Theme	    #50	  3.714	  3.714
+- Overall	  #55	  3.643	  3.643
+- Audio	    #93	  3.143 	3.143
+- Graphics	#154	2.929	  2.929
 
 This game is powered by Godot Engine.
 
